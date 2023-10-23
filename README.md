@@ -10,6 +10,6 @@ pip install matplotlib
 ```
 
 Result:
-![Demo 2](https://user-images.githubusercontent.com/62722834/159129573-73d69a58-eb58-44ff-9b51-90b07f1c73ae.PNG)
+![project 1](https://github.com/ctriapr7/ETH-Wallet/assets/92111953/584d1d91-09e3-43aa-8390-8c06170cd97c)
 ![Demo 3](https://user-images.githubusercontent.com/62722834/159130106-58c946ef-6610-4a80-85c6-9ba12f857542.png)
 

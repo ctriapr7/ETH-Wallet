@@ -1,5 +1,5 @@
-## EthereumWalletTracker :grin:
-Track Ethereum balance and transactions using Python.
+## Ethereum Wallet Tracker
+Track Ethereum balance and transactions.
 #### How to use it ?
 1. Clone this repository into your computer.
 2. Add your API_KEY (For more informations : [Etherscan](https://etherscan.io/myapikey))
@@ -8,7 +8,6 @@ Track Ethereum balance and transactions using Python.
 pip install requests
 pip install matplotlib
 ```
-4. Run it!
 
 Result : 
 ![Demo 1](https://user-images.githubusercontent.com/62722834/159129571-7352730c-306d-4a33-bca6-7dee11f03cd0.PNG)
